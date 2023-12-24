@@ -1,0 +1,6 @@
+.feature-icon {
+    border-radius: 10px; /* Zvolte vhodnou hodnotu pro zaoblené okraje */
+    overflow: hidden; /* Zajištění, že zaoblení okrajů bude viditelné */
+    padding: 10px;
+    margin: 20px;
+  }
